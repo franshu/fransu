@@ -116,11 +116,11 @@ p.social a {
   margin: 0 10px 0 0;
   color: #fff;
   display: inline-block;
-  width: 26px;
-  height: 26px;
-  border-radius: 13px;
-  line-height: 26px;
-  font-size: 15px;
+  width: 32px;
+  height: 32px;
+  border-radius: 15px;
+  line-height: 32px;
+  font-size: 20px;
   text-align: center;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -138,7 +138,7 @@ p.social a.gplus {
   background-color: #c21f25;
 }
 p.social a.twitter {
-  background-color: #3cf;
+  background-color: #1E92C5;
 }
 p.social a.instagram {
   background-color: #cd4378;
@@ -148,14 +148,14 @@ p.social a.email {
 }
 .copyright {
   margin-top: 40px;
-  color: #999999;
+  color: #E6E6E6;
   font-style: italic;
 }
 .copyright p.credit {
   text-align: right;
 }
 .copyright p.credit a {
-  color: #999999;
+  color: #E6E6E6;
 }
 @media (max-width: 991px) {
   .copyright p.credit {
@@ -174,7 +174,7 @@ p.social a.email {
 }
 #page1 {
   text-align: center;
-  background: url('../img/macbook-juice.jpg') center center no-repeat;
+  background: url('../img/demo.jpg') center center no-repeat;
   background-size: cover;
   color: #fff;
 }
