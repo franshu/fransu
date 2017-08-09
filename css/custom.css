@@ -1,0 +1,177 @@
+*{
+	margin: 0px;
+	padding:0px;
+	font-family: 
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+	/*font-family: 'Montserrat', sans-serif;
+	font-family: 'Open Sans', sans-serif;*/
+}
+.logo_lila{
+	width: 100%;
+}
+h1{
+	display: none;
+}
+
+/*seccion 02*/
+#page2{
+	background-color: #E4C3C3;
+}
+.cv-photo{
+    width: 80%;
+    margin-top: 30px;
+    margin-left: 153px;
+}
+
+.title-2{
+	text-align: center;
+	font-weight: lighter;
+	text-transform: uppercase;
+	color: #fff;
+}
+.intereses li{
+	color:#fff;
+	list-style: none;
+	display: inline-block;
+	text-align: center;
+}
+.intereses i{
+	font-size: 21px;
+	padding: 10px;
+}
+
+.intereses i:hover{
+	transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  -o-transform: scale(1.2);
+}
+/*seccion 03*/
+
+
+/*seccion 04*/
+#page4{
+	background-color: #4FBFA8;
+}
+.sec04{  
+	  text-align: center;
+}
+.title-3{
+	color:#fff;
+}
+.snip1580 {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  margin: 8px;
+  min-width: 250px;
+  max-width: 310px;
+  width: 100%;
+  background-color: #000000;
+  color: #ffffff;
+  text-align: left;
+  font-size: 16px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+.snip1580 * {
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.snip1580 img {
+  max-width: 100%;
+  vertical-align: top;
+}
+.snip1580 figcaption {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.20);
+}
+.snip1580 h3 {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 20px;
+  margin: 3px 0;
+}
+.snip1580 h5 {
+  font-weight: 400;
+  margin: 0;
+  color: #bbb;
+  letter-spacing: 1px;
+}
+.snip1580 a {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.snip1580:hover figcaption,
+.snip1580.hover figcaption {
+  top: 20px;
+  left: 20px;
+  right: 20px;
+  bottom: 20px;
+  background-color: #fff;
+}
+.snip1580:hover h3,
+.snip1580.hover h3,
+.snip1580:hover h5,
+.snip1580.hover h5 {
+  color: #333;
+}
+
+/*seccion 05*/
+#page5 {
+  text-align: center;
+  background: url('../img/nubeverde.png') center center no-repeat;
+  background-size: cover;
+  color: #fff;
+}
+ 
+.tools i{
+	font-size: 60px;
+	margin: 30px;
+}
+.divisor{
+	height: 100px;
+}
+
+/*seccion 06*/
+
+#E4C3C3
+.credito p{
+	font-size: 10px;
+	color: #E6E6E6;
+}
+
+.title-6{
+	color:#E4C3C3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
