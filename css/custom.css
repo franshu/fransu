@@ -19,12 +19,25 @@ h1{
 	background-color: #E4C3C3;
 }
 .cv-photo{
-    width: 80%;
-    margin-top: 30px;
-    margin-left: 153px;
+    width: 70%;
+    align-items:center;
 }
 
 .title-2{
+  text-align: left;
+  font-weight: lighter;
+  text-transform: uppercase;
+  color: #fff;
+}
+.name{
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+}
+.statement{
+  color: #fff;
+  font-weight: lighter;
+}
+.title-2b{
 	text-align: center;
 	font-weight: lighter;
 	text-transform: uppercase;
@@ -37,7 +50,7 @@ h1{
 	text-align: center;
 }
 .intereses i{
-	font-size: 21px;
+	font-size: 35px;
 	padding: 10px;
 }
 
@@ -138,15 +151,18 @@ h1{
   text-align: center;
   background: url('../img/nubeverde.png') center center no-repeat;
   background-size: cover;
-  color: #fff;
+  background-color: #4FBFA8;
 }
- 
+.title-5{
+  color:#837390
+} 
 .tools i{
 	font-size: 60px;
 	margin: 30px;
 }
-.divisor{
-	height: 100px;
+
+.tool-row{
+  padding-top: 60px;
 }
 
 /*seccion 06*/
