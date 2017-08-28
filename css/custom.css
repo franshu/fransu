@@ -157,7 +157,7 @@ h1{
   color:#837390
 } 
 .tools i{
-	font-size: 60px;
+	font-size: 80px;
 	margin: 30px;
 }
 
@@ -167,15 +167,14 @@ h1{
 
 /*seccion 06*/
 
-
 .credito-a p{
-	font-size: 12px;
-	color: #837390;
-}
-
-.credito-b p{
-  font-size: 10px;
-  color: #E6E6E6;
+    background-color: #837390;
+    height: 55px;
+    font-size: 12px;
+    color: #fff;
+    margin-top: 252px;
+    padding-top: 20px;
+    text-align: center;
 }
 
 .title-6{
@@ -185,7 +184,9 @@ h1{
   color:#837390;
   text-align: center;
  }
-
+.cmlogo{
+  width: 10%;
+}
 
 
 
